@@ -1,4 +1,4 @@
-# note_app
+# NOTY
 
 A new Flutter project.
 
